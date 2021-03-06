@@ -9,4 +9,5 @@ Portfolio site: [Portfolio]()
 [![Gmail Badge](https://img.shields.io/badge/-omer.ipk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=black&link=mailto:omer.ipk@gmail.com)](mailto:omer.ipk@gmail.com)
 
 
-[![WakaTime](https://wakatime.com/share/@omripk/e3b6853d-d4c2-4a68-9764-9fe61c4e5055.svg)](https://wakatime.com/share/@omripk/e3b6853d-d4c2-4a68-9764-9fe61c4e5055.svg)
+<img src="https://wakatime.com/share/@omripk/6d42cebc-41e7-48d6-be91-1ceca16461d0.svg" width="450" height="300" />
+
